@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Ansible, Linux
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Lrfrancisco17@gmaiil.com
+- 📫 How to reach me ...Lrfrancisco17@gmail.com
 
 <!---
 Lrfrancisco17/Lrfrancisco17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
