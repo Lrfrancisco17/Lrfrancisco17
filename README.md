@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Francisco</h1>
-<h3 align="center">A passionate Linux Administrator from NYC, Future platform engineer.</h3>
+<h3 align="center">A passionate Linux Administrator from NYC, future platform engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrfrancisco17&label=Profile%20views&color=0e75b6&style=flat" alt="lrfrancisco17" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Containerization, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lrfrancisco17](https://github.com/Lrfrancisco17)
+- 👨‍💻 All of my projects are available at [https://github.com/Lrfrancisco17/projects](https://github.com/Lrfrancisco17/projects)
 
 - 💬 Ask me about **Linux, Iac, Automation Ansible, Terraform**
 
