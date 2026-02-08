@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Francisco</h1>
 <h3 align="center">A passionate Linux Administrator from NYC, future platform engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lrfrancisco17&label=Profile%20views&color=0e75b6&style=flat" alt="lrfrancisco17" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lrfrancisco17" alt="lrfrancisco17" /></a> </p>
 
 - 🔭 I’m currently working on [Terrafomr + Ansible prj](https://github.com/Lrfrancisco17/rhel-patching-automation)
@@ -12,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Lrfrancisco17/projects](https://github.com/Lrfrancisco17/projects)
 
 - 💬 Ask me about **Linux, Iac, Automation Ansible, Terraform**
-
-- 📫 How to reach me **lrfrancisco17@gmail.com**
 
 - ⚡ Fun fact **I love Tacos**
 
