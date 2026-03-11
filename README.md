@@ -44,7 +44,7 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=d6E4WPumSKE">
-        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.jpg" width="250">
+        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" width="250">
       </a>
     </td>
   </tr>
