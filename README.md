@@ -37,7 +37,7 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
   </a>
 
   <a href="https://www.youtube.com/watch?v=P1uPepiLEgA">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumnail.png" 
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumnail.png" style="width: 100%; height: auto;">
   </a>
 
   <a href="https://www.youtube.com/watch?v=dE64PuN9SkE&t=153s">
@@ -57,6 +57,7 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
   </a>
 
 </div>
+
 
 <p dir="auto">
   <a href="https://www.youtube.com/@Innovationlu" rel="nofollow">
