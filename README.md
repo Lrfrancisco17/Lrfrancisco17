@@ -34,7 +34,7 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=6s">
-        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/tf_ansible_prj.png" width="250">
+        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/tf_ansible_prj.jpg" width="250">
       </a>
     </td>
     <td>
