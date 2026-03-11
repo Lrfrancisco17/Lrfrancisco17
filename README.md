@@ -55,8 +55,8 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=LINK5">
-        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG5.png" width="250">
+      <a href="https://youtu.be/Oc-c3WiPuKs">
+        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_loop_thumnail.jpg" width="250">
       </a>
     </td>
     <td>
