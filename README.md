@@ -30,7 +30,8 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
   </a>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div style="max-width: 900px; margin: auto;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
   <!-- Row 1 -->
   <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=6s">
