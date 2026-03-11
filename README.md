@@ -33,8 +33,8 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
   <!-- Row 1 -->
-  <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw&t=4s">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumbnail.png" style="width: 100%; height: auto;">
+  <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=6s">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumnail.png" style="width: 100%; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw">
     <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumbnail.png" style="width: 100%; height: auto;">
