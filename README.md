@@ -26,7 +26,7 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
-  <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=4s"><img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumnail.png" style="width:100%;"></a>
+  <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=4s"><img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumnail.png" style="width: 300px; height: auto;"></a>
   <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw"><img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumnail.png" style="width:100%;"></a>
   <a href="https://www.youtube.com/watch?v=d6E4WPumSKE&t=153s"><img src="[IMG3](https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png)" style="width:100%;"></a>
 
