@@ -26,25 +26,30 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
-  <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=4s"><img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumnail.png" style="width: 300px; height: auto;"></a>
-  <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw"><img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumnail.png" style="width: 300px; height: auto;"></a>
-  <a href="https://www.youtube.com/watch?v=d6E4WPumSKE&t=153s"><img src="(https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png)" style="width: 300px; height: auto;"></a>
+  <!-- Row 1 -->
+  <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw&t=4s">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumbnail.png" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumbnail.png" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=dE64PuN9SkE&t=153s">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" style="width: 100%; height: auto;">
+  </a>
 
-  <a href="LINK4"><img src="IMG4" style="width:100%;"></a>
-  <a href="LINK5"><img src="IMG5" style="width:100%;"></a>
-  <a href="LINK6"><img src="IMG6" style="width:100%;"></a>
+  <!-- Row 2 -->
+  <a href="https://www.youtube.com/watch?v=LINK4">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG4.png" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LINK5">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG5.png" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LINK6">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG6.png" style="width: 100%; height: auto;">
+  </a>
 
 </div>
 
-
-<p dir="auto"><a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=4s" rel="nofollow"> <img 
-src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumnail.png" style="width: 300px; height: auto;">
-
-<p dir="auto"><a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw" rel="nofollow"> <img 
-src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumnail.png" style="width: 300px; height: auto;">
-
-<p dir="auto"><a href="https://www.youtube.com/watch?v=d6E4WPumSKE&t=153s" rel="nofollow"> <img 
-src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" style="width: 300px; height: auto;">
   
 
 <p dir="auto"><a href="https://www.youtube.com/@Innovationlu" rel="nofollow"><img src="https://camo.githubusercontent.com/3e8bee35d2a9a086168c1240add3a620970aa9ef5009cd17ec87c49f0d1aef90/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d537562736372696265253230466f722532304d6f72652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d766964656f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" style="max-width: 100%;"></a></p>
