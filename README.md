@@ -28,24 +28,24 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
 
   <!-- Row 1 -->
   <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw&t=4s">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumbnail.png" style="width: 300px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumbnail.png" style="width: 200px; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumbnail.png" style="width: 300px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumbnail.png" style="width: 200px; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=dE64PuN9SkE&t=153s">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" style="width: 300px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" style="width: 200px; height: auto;">
   </a>
 
   <!-- Row 2 -->
   <a href="https://www.youtube.com/watch?v=LINK4">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG4.png" style="width: 100%; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG4.png" style="width: 200px; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=LINK5">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG5.png" style="width: 100%; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG5.png" style="width: 200px; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=LINK6">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG6.png" style="width: 100%; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG6.png"  style="width: 200px; height: auto;">
   </a>
 
 </div>
