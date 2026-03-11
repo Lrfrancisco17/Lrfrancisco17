@@ -30,27 +30,28 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
   </a>
 </div>
 
-<div style="max-width: 900px; margin: auto;">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 250px); gap: 10px; justify-content: center;">
 
-  <!-- Row 1 -->
   <a href="https://www.youtube.com/watch?v=VoFaZ2rkyGw&t=6s">
     <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumnail.png" style="width: 100%; height: auto;">
   </a>
+
   <a href="https://www.youtube.com/watch?v=P1uPepiLEgA">
     <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumnail.png" style="width: 100%; height: auto;">
   </a>
+
   <a href="https://www.youtube.com/watch?v=dE64PuN9SkE&t=153s">
     <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" style="width: 100%; height: auto;">
   </a>
 
-  <!-- Row 2 -->
   <a href="https://www.youtube.com/watch?v=LINK4">
     <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG4.png" style="width: 100%; height: auto;">
   </a>
+
   <a href="https://www.youtube.com/watch?v=LINK5">
     <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG5.png" style="width: 100%; height: auto;">
   </a>
+
   <a href="https://www.youtube.com/watch?v=LINK6">
     <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG6.png" style="width: 100%; height: auto;">
   </a>
