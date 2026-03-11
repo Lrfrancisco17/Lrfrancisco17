@@ -21,44 +21,44 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
 
 <!-- YOUTUBE-CARDS:START --> 
 <!-- YOUTUBE-CARDS:END -->
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">📺 Latest YouTube Videos</h3><a id="user-content--latest-youtube-videos" class="anchor" aria-label="Permalink: 📺 Latest YouTube Videos" href="#-latest-youtube-videos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
+<div class="markdown-heading" dir="auto">
+  <h3 class="heading-element" dir="auto">📺 Latest YouTube Videos</h3>
+  <a id="user-content--latest-youtube-videos" class="anchor" aria-label="Permalink: 📺 Latest YouTube Videos" href="#-latest-youtube-videos">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
+  </a>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
   <!-- Row 1 -->
   <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw&t=4s">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumbnail.png" style="width: 200px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_action_mini_vid_thumbnail.png" style="width: 100%; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=VofA2ZrkyGw">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumbnail.png" style="width: 200px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/full_terraform_prj_thumbnail.png" style="width: 100%; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=dE64PuN9SkE&t=153s">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" style="width: 200px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/ans_runbook_prj.png" style="width: 100%; height: auto;">
   </a>
 
   <!-- Row 2 -->
   <a href="https://www.youtube.com/watch?v=LINK4">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG4.png" style="width: 200px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG4.png" style="width: 100%; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=LINK5">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG5.png" style="width: 200px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG5.png" style="width: 100%; height: auto;">
   </a>
   <a href="https://www.youtube.com/watch?v=LINK6">
-    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG6.png"  style="width: 200px; height: auto;">
+    <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/IMG6.png" style="width: 100%; height: auto;">
   </a>
 
 </div>
 
-  
+<p dir="auto">
+  <a href="https://www.youtube.com/@Innovationlu" rel="nofollow">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" style="max-width: 100%;">
+  </a>
+</p>
 
-<p dir="auto"><a href="https://www.youtube.com/@Innovationlu" rel="nofollow"><img src="https://camo.githubusercontent.com/3e8bee35d2a9a086168c1240add3a620970aa9ef5009cd17ec87c49f0d1aef90/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d537562736372696265253230466f722532304d6f72652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d766964656f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&amp;logo=video&amp;logoColor=white" style="max-width: 100%;"></a></p>
-
-
-
-
-<h1 dir="auto"></h1>
-
-</article>
-  </div>
-</div>
