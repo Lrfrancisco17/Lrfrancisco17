@@ -60,8 +60,8 @@ Linux Systems Administrator with 7+ years of experience supporting large-scale, 
       </a>
     </td>
     <td>
-      <a href="https://youtu.be/sRaySMgWUGg">
-        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/git_commits_alias.jpg" width="250">
+      <a href="https://youtu.be/ArQszxfghy4">
+        <img src="https://github.com/Lrfrancisco17/projects/blob/main/thumnails/cis_nist_scanning_walkthough_thumnail.jpg" width="250">
       </a>
     </td>
   </tr>
