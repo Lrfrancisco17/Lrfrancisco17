@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux Administrator
 -------------------
 
-Cloud Infrastructure Engineer | AWS · Terraform · Ansible · Linux
+Cloud Infrastructure Engineer | AWS · Terraform · Ansible · Linux  
 Building open-source DevOps automation | @Innovationlu on YouTube
 
 * 🌍  I'm based in US
