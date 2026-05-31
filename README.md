@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux Administrator
 -------------------
 
-Linux Systems Administrator with 7+ years of experience supporting large-scale, mission‑critical environments across on‑prem datacenters and AWS cloud.
+Cloud Infrastructure Engineer | AWS · Terraform · Ansible · Linux
+Building open-source DevOps automation | @Innovationlu on YouTube
 
 * 🌍  I'm based in US
 * 🖥️  See my portfolio at [MyProjects](http://github.com/Lrfrancisco17/projects)
